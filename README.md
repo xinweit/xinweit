@@ -10,16 +10,14 @@
 📫 How to reach me
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](mailto:xinweitg@gmail.com)  
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](mailto:xinweitg@gmail.com) 
+
+[linkedin]: https://www.linkedin.com/in/xinweit/
 
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/simpleicons.svg" /> -->
 
-<br />
-[Contact Us](mailto:admin@cloudhadoop.com)  
-[![](https://data.jsdelivr.com/v1/package/npm/simple-icons/badge)](https://www.jsdelivr.com/package/npm/simple-icons)  
-
-[linkedin]: https://www.linkedin.com/in/xinweit/
+<!-- [Contact Us](mailto:admin@cloudhadoop.com)   -->
 
 <br />
 <br />
