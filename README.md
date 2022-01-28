@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xinweit
-- 👀 I’m interested in Software Engineering, Data Science and Blockchain Technologies
-- 🌱 I’m currently learning Spanish
+👋 Hi, I’m Xin Wei  
+👀 I’m interested in Software Engineering, Data Science and Blockchain Technologies  
+🌱 I’m currently learning Spanish  
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
