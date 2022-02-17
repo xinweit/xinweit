@@ -19,9 +19,6 @@
 
 <!-- [Contact Us](mailto:admin@cloudhadoop.com)   -->
 
-<br />
-<br />
-<br />
 
 [![Xin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinweit)](https://github.com/xinweit/github-readme-stats)
 
