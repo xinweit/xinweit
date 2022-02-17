@@ -10,7 +10,7 @@
 📫 How to reach me
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](mailto:xinweitg@gmail.com) 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](mailto:xinweitg@gmail.com)
 
 [linkedin]: https://www.linkedin.com/in/xinweit/
 
@@ -19,9 +19,9 @@
 
 <!-- [Contact Us](mailto:admin@cloudhadoop.com)   -->
 
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
 
 [![Xin Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinweit)](https://github.com/xinweit/github-readme-stats)
 
